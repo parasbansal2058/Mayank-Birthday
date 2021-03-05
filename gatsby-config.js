@@ -26,9 +26,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `Mayank's Birthday`,
+        short_name: `Birthday`,
+        description: `Playful and Colorful One-Page Birthday Website for Mayank`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
